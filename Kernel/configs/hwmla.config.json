@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "hwmla",
-      "repo": "https://github.com/skinzor/android_kernel_huawei_msm8953-1",
+      "repo": "https://github.com/CNEDGW/android_kernel_hwmla/",
       "branch": "lineage-15.1",
       "device": "hwmla",
       "defconfig": "."
