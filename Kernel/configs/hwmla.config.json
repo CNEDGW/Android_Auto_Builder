@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "hwmla",
-      "repo": "https://github.com/CNEDGW/android_kernel_hwmla/",
-      "branch": "lineage-15.1",
+      "repo": "https://github.com/skinzor/nova_stock_kernel",
+      "branch": "cm-14.1",
       "device": "hwmla",
       "defconfig": "."
     },
