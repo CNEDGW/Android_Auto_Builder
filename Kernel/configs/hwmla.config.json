@@ -34,7 +34,7 @@
         "branch": ""
       }
     },
-    "enableKernelSU": true,
+    "enableKernelSU": false,
     "enableLXC": false
   }
 ]
