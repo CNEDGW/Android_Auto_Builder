@@ -1,10 +1,10 @@
 [
   {
     "kernelSource": {
-      "name": "hwmla",
-      "repo": "https://github.com/skinzor/nova_stock_kernel",
-      "branch": "cm-14.1",
-      "device": "hwmla",
+      "name": "fogos_krl",
+      "repo": "https://github.com/Motorola-SM6375-Devs/android_kernel_motorola_sm6375",
+      "branch": "fourteen",
+      "device": "fogos",
       "defconfig": "."
     },
     "toolchains": [
@@ -34,7 +34,7 @@
         "branch": ""
       }
     },
-    "enableKernelSU": false,
+    "enableKernelSU": true,
     "enableLXC": false
   }
 ]
